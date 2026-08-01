@@ -12,7 +12,7 @@
 
 <!-- 🎬 PROFILE GIF 🎬 -->
 <p align="center">
-  <img src="./PROFILE2.gif" width="100%" alt="MalikAli Profile Banner" />
+  <img src="./PROFILE.gif" width="100%" alt="MalikAli Profile Banner" />
 </p>
 
 <!-- PROFILE BADGES -->
